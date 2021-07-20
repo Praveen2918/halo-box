@@ -1,0 +1,14 @@
+{
+"April":	 [14,48,48],
+"May":	 [8,16,16],
+"June":	[7,3,3],
+"July":	[2,2,2],
+"August":[5,8,8],
+"September": [2,7,7],
+"October":   [1,1,1],
+"November":  [2,8,8],
+"December":  [2,1,1],
+"Description":["Min Debit","Min Credit","Min Balance"],
+"Type":"bar",
+"title":"Min Transaction Chart - 2018"
+}

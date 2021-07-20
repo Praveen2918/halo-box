@@ -1,0 +1,12 @@
+{
+	"title":"Given Data Count",
+	"Customer Demographics" : [12,5629],
+	"Customer Accounts" : [11,41553],
+	"Collateral" : [11,934993],
+	"Jewel Loan Transaction" : [8,1489888],
+	"Running Account Transactions" : [8,2409599],
+	"Type" : "bar",
+	"Description" : ["Column Count","Row Count"]
+}
+
+

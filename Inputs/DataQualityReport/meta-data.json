@@ -1,0 +1,14 @@
+{
+	"Given_Data":["GivenData.json"],
+	"Total_Customers":["Total_Customers.json"],
+	"Customer_Demographics":["Constitution Distribution.json","Location Distribution.json","Risk Distribution.json","Sex Distribution.json"],
+	"Customer_Accounts":["Account Type Distribution.json","Product Distribution.json","NPAStatus Distribution.json","Status Distribution.json"],
+	"Collateral":["ColtDesc Distribution.json","Status Distribution.json"],
+	"Jewel_Loan_Transaction":["loan_transaction.json"],
+	"JL_Running_Account_Transaction":["running_acc_tran.json"],
+	"All_Table_Aggregation_Calculation":["AllTableAggreagtionCal.json"],
+	"Max_Transaction":["Max Transaction_2018.json","Max Transaction_2019.json"],
+	"Min_Transaction":["Min Transaction_2018.json","Min Transaction_2019.json"],
+	"Mean_Transaction":["Mean Transaction_2018.json","Mean Transaction_2019.json"]
+
+}
